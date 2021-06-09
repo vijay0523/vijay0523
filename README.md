@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on CyberSpace
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on a Game
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Opensource Projects
 <!--
 - 🤔 I’m looking for help with ...
